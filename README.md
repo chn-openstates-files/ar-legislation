@@ -1,4 +1,4 @@
-# 🏛️ ar legislation file tree
+# 🏛️ Arkansas legislation file tree
 
 Download a copy of your states legislation.
 
