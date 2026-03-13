@@ -114,5 +114,9 @@
   "2025": {
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "2026F": {
+    "name": "2026 Fiscal Session",
+    "date_folder": "2026-2026"
   }
 }
