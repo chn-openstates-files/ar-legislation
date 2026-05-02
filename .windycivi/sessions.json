@@ -118,5 +118,9 @@
   "2026F": {
     "name": "2026 Fiscal Session",
     "date_folder": "2026-2026"
+  },
+  "2026S1": {
+    "name": "2026 First Extraordinary Session",
+    "date_folder": "2026-2026"
   }
 }
