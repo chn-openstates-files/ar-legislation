@@ -1,4 +1,14 @@
 {
+  "HB1001": {
+    "session_id": "2025",
+    "name": "2025 Regular Session",
+    "date_folder": "2025-2025"
+  },
+  "SB1": {
+    "session_id": "2025",
+    "name": "2025 Regular Session",
+    "date_folder": "2025-2025"
+  },
   "HB1242": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -4324,11 +4334,6 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
-  "HB1001": {
-    "session_id": "2025",
-    "name": "2025 Regular Session",
-    "date_folder": "2025-2025"
-  },
   "SR44": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -6620,11 +6625,6 @@
     "date_folder": "2025-2025"
   },
   "HR1069": {
-    "session_id": "2025",
-    "name": "2025 Regular Session",
-    "date_folder": "2025-2025"
-  },
-  "SB1": {
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
